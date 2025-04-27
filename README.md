@@ -1,6 +1,6 @@
-# 📝 Notes App – A Simple, Customizable Notes App
+# 📝 <Notes App> – A Simple, Customizable Notes App
 
-Notes App is a lightweight, customizable, and user-focused note-taking app designed for **Windows**. Inspired by Notepad's simplicity but enhanced with powerful features, QuickNote allows users to take notes quickly, organize them, and manage them in a way that fits their workflow.
+<Notes App> is a lightweight, customizable, and user-focused note-taking app designed for **Windows**. Inspired by Notepad's simplicity but enhanced with powerful features, QuickNote allows users to take notes quickly, organize them, and manage them in a way that fits their workflow.
 
 This app is open-source and built to give you control over your notes, appearance, and experience.
 
