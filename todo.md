@@ -7,6 +7,7 @@
 [x] Create single instance of notes manager
 [x] Keep system tray active at all times so app is always open
 [x] System tray click should open  manager
+[ ] put whole project inside folder to look better on gh
 
 [ ] Config and app settings:
     - should be saved in config.json in app data
@@ -67,7 +68,7 @@
 [ ] Markdown preview renderer:
     - split pane render
     - live updates to md
-    - toggle through shortcut 
+    - toggle through shortcut
   
 [ ] UI Themes and setting to choose
 
